@@ -1,8 +1,7 @@
 # ProductivityApp
 Helps you to be more productive
 
-# Features #
-    
+## Features ## 
 * To-Do List
     *Add, remove and edit items
     * Progress Bar
@@ -11,5 +10,5 @@ Helps you to be more productive
     * Custom Work time
     * Custom rounds
     * Custom Long Break time
-*Meditation Timer
-    *Custom Meditation time
+* Meditation Timer
+    * Custom Meditation time
