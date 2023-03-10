@@ -3,7 +3,7 @@ Helps you to be more productive
 
 ## Features ## 
 * To-Do List
-    *Add, remove and edit items
+    * Add, remove and edit items
     * Progress Bar
 * Pomodoro Timer
     * Custom Break time
